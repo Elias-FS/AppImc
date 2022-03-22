@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  Olá, que bom ver você por aqui. <br>Meu nome é Elias e fiz esse projetinho que <strong>calcula o seu IMC</strong>! <br> Eu sou um <strong>desenvolvedor</strong> e desenvolvi esse projeto para me desafiar e 
+  Olá, que bom ver você por aqui. <br>Meu nome é Elias e fiz esse projeto que <strong>calcula o seu IMC</strong>! <br> Eu sou um <strong>desenvolvedor</strong> e desenvolvi esse projeto para me desafiar e 
   colocar em prática alguns conhecimentos aprendidos em sala de aula, espero que goste!
 
 
