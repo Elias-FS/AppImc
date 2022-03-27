@@ -29,4 +29,7 @@
   
 ## 📱 Sobre o App
 
-Aplicativo que calcula índice de massa corporal (IMC) desenvolvido na IDE Android Studio com a linguagem Kotlin
+Aplicativo que calcula o índice de massa corporal (IMC) e classifica de acordo com a tabela de classificação IMC desenvolvido na IDE Android Studio com a linguagem Kotlin
+  <div align="center">
+  <img src="https://github.com/Elias-FS/Imagens-Repositorios/blob/main/AppIMC/CalculadoraIMC.png" alt="Screenshot" width="30%"/>
+</div>
